@@ -9,15 +9,14 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Max's Portfolio',
+  domain: 'maxjtwelftree.netlify.app',
+  author: 'Max Twelftree',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Self Portfolio',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
   github: 'transitive-bullshit',
   linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
